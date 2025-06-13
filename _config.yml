@@ -18,25 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
+title: Tim Puphal
+name: Tim Puphal
 position: Research Scientist
 email: dp9jalxhq@mozmail.com
 description: |
-  I am a researcher in 3D computer vision and generative AI. I am a founding member at [World Labs](https://www.worldlabs.ai/blog) where we are expanding the frontier of spatial intelligence.
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/) for products on Google Search.
+  I am a researcher in motion planning and robotics. I am an associate at Honda Research Institute Japan and Europe [World Labs](https://www.worldlabs.ai/blog) where we are pushing the intelligence and cooperative interaction of robots in human environments.
+  I received my Ph.D from the [Technical University of Darmstadt](https://grail.cs.washington.edu/) in 2021 where I was advised by
+  [Julian Eggert](https://scholar.google.co.jp/citations?user=pwrMce4AAAAJ&hl=ja) and
+  [Jürgen Adamy](https://scholar.google.com/citations?user=cP84NS8AAAAJ&hl=en).
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
-
-  My current research interests are primarily in 3D generative AI and diffusion models.
+  My current research interests are primarily in robust planning, cooperative planning and human-robot interaction.
 baseurl: "timpuphal" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://timpuphal.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: timpuphal
+github_username: timpuphal
+google_scholar: 7e8eFrIAAAAJ&hl
+# google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima
