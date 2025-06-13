@@ -21,19 +21,21 @@
 title: Tim Puphal
 name: Tim Puphal
 position: Research Scientist
-email: dp9jalxhq@mozmail.com
+email: timpuphal@gmail.com
 description: |
-  I am a researcher in motion planning and robotics. I am an associate at Honda Research Institute Japan and Europe [World Labs](https://www.worldlabs.ai/blog) where we are pushing the intelligence and cooperative interaction of robots in human environments.
-  I received my Ph.D from the [Technical University of Darmstadt](https://grail.cs.washington.edu/) in 2021 where I was advised by
+  I am a researcher in motion planning and robotics. I am an associate at Honda Research Institute [Japan](https://www.jp.honda-ri.com/en/) and [Europe](https://www.honda-ri.de/) 
+  where we are pushing the intelligence and cooperative interaction of robots in human environments.
+  I received my Ph.D from the [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) in 2021 where I was advised by
   [Julian Eggert](https://scholar.google.co.jp/citations?user=pwrMce4AAAAJ&hl=ja) and
   [Jürgen Adamy](https://scholar.google.com/citations?user=cP84NS8AAAAJ&hl=en).
 
   My current research interests are primarily in robust planning, cooperative planning and human-robot interaction.
 baseurl: "timpuphal" # the subpath of your site, e.g. /blog
-url: "https://timpuphal.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: timpuphal
+url: "https://timpuphal.github.io/timpuphal/" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: timpuphal
 github_username: timpuphal
 google_scholar: 7e8eFrIAAAAJ&hl
+google_patent: ?q=(tim+puphal)&oq=tim+puphal
 # google_analytics: G-MFWSBLRKG0
 
 # Build settings
