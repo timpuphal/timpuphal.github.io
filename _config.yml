@@ -31,7 +31,7 @@ description: |
   [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 
   My current research interests are primarily in 3D generative AI and diffusion models.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "timpuphal" # the subpath of your site, e.g. /blog
 url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KeunhongP
 github_username: keunhong
