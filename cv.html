@@ -53,20 +53,6 @@ layout: null
               {{ url_parts[1] }}
             </a>
           </p>
-          <!--
-          <p>
-            <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
-              <i class="ai ai-google-scholar"></i>
-              {{ Scholar }}
-            </a>
-          </p>
-          <p>
-            <a href="https://patents.google.com/{{ site.google_patents }}">
-              <i class="ai ai-google-scholar"></i>
-              {{ Patents }}
-            </a>
-          </p>
-          -->
           <p>
             <a href="mailto:{{ site.email }}">
               <i class="fas fa-envelope"></i>
@@ -77,19 +63,6 @@ layout: null
       </div>
 
       <div class="content">
-        <h2>Education</h2>
-        {% for school in site.data.education %}
-        <div class="columns">
-          <div class="column is-four-fifths">
-            <b>{{ school.name }}</b><br />
-            {{ school.description }}
-          </div>
-          <div class="column is-one-fifths has-text-right">
-            {{ school.dates }}
-          </div>
-        </div>
-        {% endfor %}
-
         <h2>Employment</h2>
 
         {% for job in site.data.employment %}
@@ -102,6 +75,20 @@ layout: null
             {{ job.dates }}
             <br />
             {{ job.location }}
+          </div>
+        </div>
+        {% endfor %}
+
+        <h2>Education</h2>
+
+        {% for school in site.data.education %}
+        <div class="columns">
+          <div class="column is-four-fifths">
+            <b>{{ school.name }}</b><br />
+            {{ school.description }}
+          </div>
+          <div class="column is-one-fifths has-text-right">
+            {{ school.dates }}
           </div>
         </div>
         {% endfor %}
