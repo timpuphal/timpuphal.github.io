@@ -6,16 +6,42 @@
   url: "https://www.biped.ai/"
   image: "biped_before.png"
   video: "biped_after.mp4"
-
-- id: google-3d-shopping-may2025
-  title: "Generating 3D Products"
-  organization: "Google Research"
-  date: "May 2025"
-  description: "Transform a few photos into interactive 3D shopping experiences using generative AI."
-  url: "https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/"
-  image: "google-3d-shopping.jpg"
-  video: "google-3d-products.mp4"
   tags:
-    - "Generative AI"
-    - "3D Reconstruction"
-    - "Computer Vision"
+    - "Biped"
+    - "Blind People Support"
+
+- id: hri-jun2025
+  title: "Human-Robot Interaction"
+  organization: "Honda Research, Biped"
+  date: "June 2025"
+  description: "AI mobility companion"
+  url: "https://www.biped.ai/"
+  image: "cooperative_planning_before.png"
+  video: "cooperative_planning_after.mp4"
+
+- id: hri-jun2025
+  title: "Human-Robot Interaction"
+  organization: "Honda Research, Biped"
+  date: "June 2025"
+  description: "AI mobility companion"
+  url: "https://www.biped.ai/"
+  image: "human_based_risk_model_before.png"
+  video: "human_based_risk_model_after.mp4"
+
+- id: hri-jun2025
+  title: "Human-Robot Interaction"
+  organization: "Honda Research, Biped"
+  date: "June 2025"
+  description: "AI mobility companion"
+  url: "https://www.biped.ai/"
+  image: "priority_intersection_before.png"
+  video: "priority_intersection_after.mp4"
+
+- id: hri-jun2025
+  title: "Human-Robot Interaction"
+  organization: "Honda Research, Biped"
+  date: "June 2025"
+  description: "AI mobility companion"
+  url: "https://www.biped.ai/"
+  image: "wapochi_before.png"
+  video: "wapochi_after.mp4"
