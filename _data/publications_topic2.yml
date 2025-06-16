@@ -15,7 +15,7 @@
   title: "Asymmetry-based Behavior Planning for Cooperation at Shared Traffic Spaces"
   venue: IEEE IV, 2021
   description: "Cooperative behavior planning using asymmetry-based outcome prediction to navigate narrow passages without communication."
-  researchgate: https://www.researchgate.net/publication/355837955_Asymmetry-based_Behavior_Planning_for_Cooperation_at_Shared_Traffic_Spaces
+  researchgate: 355837955_Asymmetry-based_Behavior_Planning_for_Cooperation_at_Shared_Traffic_Spaces
   ieee: abstract/document/9575187
   image: asymmetry_planning_before.png
   image_mouseover: asymmetry_planning_after.mp4
