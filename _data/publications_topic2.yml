@@ -1,3 +1,18 @@
+- id: priorityplanning
+  title: "Negotiating Cooperative Ordering Problems with Bimodal Planning"
+  venue: IEEE IV, 2025
+  description: "Cooperative ordering resolved by switching-aware negotiation to handle dynamic intent in urban mobility scenarios"
+  #project_page: https://reconfusion.github.io
+  arxiv: 2312.02981
+  image: cooperative_planning_before.png
+  image_mouseover: cooperative_planning_after.mp4
+  authors:
+    - rwenzel
+    - mprobst
+    - tpuphal
+    - mamann
+    - jeggert
+
 - id: asymmetryplanning
   title: "Asymmetry-based Behavior Planning for Cooperation at Shared Traffic Spaces"
   venue: IEEE IV, 2021
@@ -13,17 +28,3 @@
     - tweisswange
     - jeggert
 
-- id: priorityplanning
-  title: "Negotiating Cooperative Ordering Problems with Bimodal Planning"
-  venue: IEEE IV, 2025
-  description: "Cooperative ordering resolved by switching-aware negotiation to handle dynamic intent in urban mobility scenarios"
-  #project_page: https://reconfusion.github.io
-  arxiv: 2312.02981
-  image: cooperative_planning_before.png
-  image_mouseover: cooperative_planning_after.mp4
-  authors:
-    - rwenzel
-    - mprobst
-    - tpuphal
-    - mamann
-    - jeggert

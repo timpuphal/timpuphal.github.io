@@ -4,7 +4,7 @@
   description: "Adapting probabilistic risk models from autonomous driving to improve warning accuracy for assistive devices for the vision impaired."
   #project_page: https://illuminerf.github.io
   arxiv: 2406.06527
-  image: biped_before.jpg
+  image: biped_before.png
   image_mouseover: biped_after.mp4
   authors:
     - atourki
