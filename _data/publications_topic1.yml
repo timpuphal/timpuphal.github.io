@@ -17,8 +17,7 @@
   title: "Automated Driving in Complex Real-World Scenarios using a Scalable Risk-Based Behavior Generation Framework"
   venue: IEEE ITSC, 2021
   description: "An analytic behavior planner enables autonomous vehicles to generate high-quality decisions without relying on predefined behavior primitives."
-  hri: pubs/pdf/4785.pdf
-  ieee: abstract/document/9564440
+  hri: 4785
   image: overtaking_before.png
   image_mouseover: overtaking_after.mp4
   authors:

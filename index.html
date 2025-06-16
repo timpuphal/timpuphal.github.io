@@ -158,6 +158,17 @@ layout: null
                   </a>
                 {% endif %}
 
+                {% if publication.hri %}
+                  <a class="external-link button is-small is-ghost" href="https://www.honda-ri.de/pubs/pdf/{{ publication.hri }}.pdf">
+                    <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                    <span>PDF</span>
+                  </a>
+                  <a class="external-link button is-small is-ghost" href="https://www.honda-ri.de/publications/publications/?pubid={{ publication.hri }}">
+                    <span class="icon"><i class="fas fa-folder"></i></span>
+                    <span>abstract</span>
+                  </a>
+                {% endif %}
+
                 {% if publication.researchgate %}
                   <a class="external-link button is-small is-ghost"
                     href="https://www.researchgate.net/publication/{{ publication.researchgate }}">
@@ -166,15 +177,8 @@ layout: null
                   </a>
                 {% endif %}
 
-                {% if publication.hri %}
-                  <a class="external-link button is-small is-ghost" href="https://www.honda-ri.de/{{ publication.hri }}">
-                    <span class="icon"><i class="fas fa-file-pdf"></i></span>
-                    <span>PDF</span>
-                  </a>
-                {% endif %}
-
                 {% if publication.ieee %}
-                  <a class="external-link button is-small is-ghost" href="https://ieeexplore.ieee.org/{{ publication.ieee }}">
+                  <a class="external-link button is-small is-ghost" href="https://ieeexplore.ieee.org/abstract/document/{{ publication.ieee }}">
                     <span class="icon"><i class="fas fa-folder"></i></span>
                     <span>abstract</span>
                   </a>
