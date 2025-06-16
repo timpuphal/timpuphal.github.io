@@ -19,8 +19,8 @@
   description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems.d."
   #project_page: https://reconfusion.github.io
   arxiv: 2312.02981
-  image: biped_before.png
-  image_mouseover: biped_after.mp4
+  image: human_based_risk_model_before.png
+  image_mouseover: human_based_risk_model_after.mp4
   authors:
     - tpuphal
     - rhirano

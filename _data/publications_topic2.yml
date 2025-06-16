@@ -19,8 +19,8 @@
   description: "Cooperative behavior planning using asymmetry-based outcome prediction to navigate narrow passages without communication."
   #project_page: https://illuminerf.github.io
   arxiv: 2406.06527
-  image: cooperative_planning_before.png
-  image_mouseover: cooperative_planning_after.mp4
+  image: asymmetry_planning_before.png
+  image_mouseover: asymmetry_planning_after.mp4
   authors:
     - rwenzel
     - mprobst

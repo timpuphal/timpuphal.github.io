@@ -33,6 +33,9 @@ tweisswange:
 bbolder:
   first_name: Bram
   last_name: Bolder 
+mamann:
+  first_name: Markus
+  last_name: Amann
 atourki:
   first_name: Amine
   last_name: Tourki
@@ -42,6 +45,9 @@ pprevel:
 neinecke:
   first_name: Nils
   last_name: Einecke
+aalahi:
+  first_name: Alexandre
+  last_name: Alahi
 rhirano:
   first_name: Ryohei
   last_name: Hirano
