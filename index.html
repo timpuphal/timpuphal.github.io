@@ -141,7 +141,7 @@ layout: null
       {% assign topics = "publications_topic1, publications_topic2, publications_topic3" | split: ", " %}
 
       {% for topic in topics %}
-        {% assign publications = site.data.topic %}
+        {% assign publications = site.data[topic] %}
         {% for publication in publications %}
         <div class="publication-block columns">
 
