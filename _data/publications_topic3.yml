@@ -1,36 +1,29 @@
-- id: illuminerf
-  title: "IllumiNeRF 3D Relighting without Inverse Rendering"
-  venue: NeurIPS, 2024
-  description: "3D relighting by distilling samples from a 2D image relighting diffusion model into a latent-variable NeRF."
+- id: biped
+  title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
+  venue: IEEE/RSJ IROS, 2025
+  description: "Adapting probabilistic risk models from autonomous driving to improve warning accuracy for assistive devices for the vision impaired."
   #project_page: https://illuminerf.github.io
   arxiv: 2406.06527
-  image: illuminerf_before.jpg
-  image_mouseover: illuminerf_after.mp4
+  image: biped_before.jpg
+  image_mouseover: biped_after.mp4
   authors:
-    - xiaomingzhao
-    - pratuls
-    - dorverbin
-    - keunhong
-    - rmbrualla
-    - phenzler
+    - atourki
+    - pprevel
+    - neinecke
+    - tpuphal
+    - aalahi
 
-- id: reconfusion
-  title: "ReconFusion: 3D Reconstruction with Diffusion Priors"
-  venue: CVPR, 2024
-  description: "Using an multi-view image conditioned diffusion model to regularize a NeRF enabled few-view reconstruction."
+- id: humanfactors
+  title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
+  venue: IEEE ROMAN, 2023
+  description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems.d."
   #project_page: https://reconfusion.github.io
   arxiv: 2312.02981
-  image: reconfusion_before.png
-  image_mouseover: reconfusion_after.mp4
+  image: biped_before.png
+  image_mouseover: biped_after.mp4
   authors:
-    - rundiwu
-    - bmild
-    - phenzler
-    - keunhong
-    - ruiqigao
-    - danielwatson
-    - pratuls
-    - dorverbin
-    - barron
-    - pooleb
-    - holynski
+    - tpuphal
+    - rhirano
+    - mprobst
+    - rwenzel
+    - akimata
