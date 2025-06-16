@@ -44,7 +44,7 @@ layout: null
 
         <div class="column is-4">
           <figure class="image portrait">
-            <img src="{{ '/images/portrait.png' | relative_url }}" />
+            <img src="{{ '/images/portrait_ghibli.png' | relative_url }}" />
           </figure>
         </div>
 
@@ -142,7 +142,7 @@ layout: null
     <div class="container is-max-desktop">
       <h2 class="title is-3">Publications</h2>
 
-      {% for publication in site.data.publications %}
+      {% for publication in site.data.publications %} <!-- make here 3 different publications_robust_planning, publications_cooperative_planning, publications_human_robot_interaction -->
       <div class="publication-block columns">
 
         <div class="column is-2">
