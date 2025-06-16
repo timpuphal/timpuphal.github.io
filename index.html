@@ -134,13 +134,16 @@ layout: null
     </div>
   </div>
 
+  <h2 class="title is-3">Publications</h2>
   <section class="section">
     <div class="container is-max-desktop">
-      <h2 class="title is-3">Publications</h2>
-
+      {% assign titles = "Robust Planning, Cooperative Planning, Human-Robot Interaction" | split: ", " %}
       {% assign topics = "publications_topic1, publications_topic2, publications_topic3" | split: ", " %}
 
-      {% for topic in topics %}
+      {% for title in titles %}
+        <h3 class="title is-4">{{ title }}</h3>
+
+        {% assign key = keys[forloop.index0] %}
         {% assign publications = site.data[topic] %}
         {% for publication in publications %}
         <div class="publication-block columns">
