@@ -1,47 +1,28 @@
-- company: World Labs
-  description: Founding Member
-  dates: "Jan 2024 - (current)"
-  location: San Francisco, CA
+- company: Honda Research Institute Japan
+  description: Senior Research Scientist. Working on learning-based motion planning. Doing an expatriate training in Japan.
+  dates: "Apr 2024 - (current)"
+  location: Tokyo, Japan
 
-- company: Google
-  description: Research Scientist
-  dates: "May 2022 - Jan 2024"
-  location: San Francisco, CA
+- company: Honda Research Institute Europe
+  description: Senior Research Scientist. Worked on human-robot interaction, mental models and cooperative planning. Deputy group leader.
+  dates: "Jun 2021 - Mar 2024"
+  location: Offenbach, Germany
 
-- company: Google
+- company: Honda Research Institute Europe
+  description: Research Scientist. Worked on <a href="https://global.honda/en/RandD/hgrx/">robust planning, interaction-aware planning and safety</a> for robots.
+  dates: "Sept 2016 - May 2021"
+  location: Offenbach, Germany
+
+- company: Contintental AG
   description: >-
-    Research Intern on the <a href="https://blog.google/technology/research/project-starline/">Project Starline</a> team.
-    Worked on <a href="https://nerfies.github.io">Nerfies</a> and <ahref="https://hypernerf.github.io">HyperNeRF</a>.
+    Management intern. Worked on software project management software. 
   dates: "Jun 2020 - Sep 2021"
-  location: Seattle, WA
+  location: Shanghai, China
 
-- company: NVIDIA
+- company: Samson Controls, Ltd.
   description: >-
-    Robotics Research Intern at the <a href="https://www.nvidia.com/en-us/research/robotics/">Seattle Robotics Lab</a>.
-    Worked on <a href="https://latentfusion.github.io">LatentFusion</a>.
-  dates: "Jul 2019 - Nov 2019"
-  location: Seattle, WA
+    Engineer intern. Supported automated manufacturing engineering team.
+  dates: "Aug 2012 - Sept 2012"
+  location: Frankfurt, Germany
 
-- company: Amazon
-  description: >- 
-    Applied Scientist Intern on the <a href="https://amazon.com/go">Amazon Go</a> team.
-    Worked on human activity detection.
-  dates: "Jul 2017 - Sep 2017"
-  location: Seattle, WA
 
-- company: Ministry of National Defense, Cyber Command
-  description: Software Engineer (mandatory military service). Worked on network monitoring software.
-  dates: "Oct 2013 - Jul 2015"
-  location: Seoul, Korea
-
-- company: Google
-  description: Software Engineering Intern. Create document conversion system for Google Cloud Print.
-  dates: "May 2013 - Aug 2013"
-  location: Mountain View, CA
-
-- company: Qualcomm
-  description: >-
-    Software Engineering Intern. Optimized performance of JGit, reducing push times from hours to seconds.
-    Implemented multi-master support for Gerrit Code Review.
-  dates: "May 2012 - Aug 2012"
-  location: Boulder, CO
