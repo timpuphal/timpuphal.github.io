@@ -89,8 +89,8 @@ layout: null
         <h3 class="title is-4">{{ title }}</h3>
 
         {% assign key = lists[forloop.index0] %}
-        {% assign publications = site.data[key] %}
-        {% for publication in publications %}
+        {% assign publication_list = site.data[key] %}
+        {% for publication in publication_list %}
         <div class="publication-block columns">
 
           <div class="column is-2">
