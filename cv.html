@@ -98,7 +98,10 @@ layout: null
         {% for publication in site.data.publications %}
         <div class="columns">
           <div class="column is-four-fifths">
-            <a href="{{ publication.project_page }}"><b>{{ publication.title }}</b></a>
+            {% if publication.project_page %}
+              <a href="{{ publication.project_page }}"><b>{{ publication.title }}</b></a>
+            {% else %}
+              <b>{{ publication.title }}</b>
             <div class="publication-authors">
               {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}

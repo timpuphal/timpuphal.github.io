@@ -1,9 +1,20 @@
+- id: biped
+  title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
+  venue: IEEE/RSJ IROS, 2025
+  description: "Adapting probabilistic risk models from autonomous driving to improve warning accuracy for assistive devices for the vision impaired."
+  image: biped_before.png
+  image_mouseover: biped_after.mp4
+  authors:
+    - atourki
+    - pprevel
+    - neinecke
+    - tpuphal
+    - aalahi
+
 - id: wapochi
   title: "Finding the Easy Way Through – the Probabilistic Gap Planner for Social Robot Navigation"
   venue: IEEE ROMAN, 2025
   description: "Probabilistic gap planner which improves robot navigation by guiding short-term planners towards low-density crowd regions."
-  #project_page: https://illuminerf.github.io
-  #arxiv: 2406.06527
   image: wapochi_before.png
   image_mouseover: wapochi_after.mp4
   authors:
@@ -15,12 +26,37 @@
     - smatsuzaki
     - mkomuro
 
+- id: priorityplanning
+  title: "Negotiating Cooperative Ordering Problems with Bimodal Planning"
+  venue: IEEE IV, 2025
+  description: "Cooperative ordering resolved by switching-aware negotiation to handle dynamic intent in urban mobility scenarios"
+  image: cooperative_planning_before.png
+  image_mouseover: cooperative_planning_after.mp4
+  authors:
+    - rwenzel
+    - mprobst
+    - tpuphal
+    - mamann
+    - jeggert
+
+- id: humanfactors
+  title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
+  venue: IEEE ROMAN, 2023
+  description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems.d."
+  arxiv: 2306.03849
+  image: biped_before.png
+  image_mouseover: biped_after.mp4
+  authors:
+    - tpuphal
+    - rhirano
+    - mprobst
+    - rwenzel
+    - akimata
+
 - id: robustplanning
   title: "Automated Driving in Complex Real-World Scenarios using a Scalable Risk-Based Behavior Generation Framework"
   venue: IEEE ITSC, 2021
   description: "An analytic behavior planner enables autonomous vehicles to generate high-quality decisions without relying on predefined behavior primitives."
-  #project_page: https://illuminerf.github.io
-  #arxiv: 2406.06527
   image: overtaking_before.png
   image_mouseover: overtaking_after.mp4
   authors:
@@ -32,27 +68,11 @@
     - bflade
     - jeggert
 
-- id: priorityplanning
-  title: "Negotiating Cooperative Ordering Problems with Bimodal Planning"
-  venue: IEEE IV, 2025
-  description: "Cooperative ordering resolved by switching-aware negotiation to handle dynamic intent in urban mobility scenarios"
-  #project_page: https://reconfusion.github.io
-  arxiv: 2312.02981
-  image: cooperative_planning_before.png
-  image_mouseover: cooperative_planning_after.mp4
-  authors:
-    - rwenzel
-    - mprobst
-    - tpuphal
-    - mamann
-    - jeggert
-
 - id: asymmetryplanning
   title: "Asymmetry-based Behavior Planning for Cooperation at Shared Traffic Spaces"
   venue: IEEE IV, 2021
   description: "Cooperative behavior planning using asymmetry-based outcome prediction to navigate narrow passages without communication."
-  #project_page: https://illuminerf.github.io
-  arxiv: 2406.06527
+  project_page: https://www.researchgate.net/publication/355837955_Asymmetry-based_Behavior_Planning_for_Cooperation_at_Shared_Traffic_Spaces
   image: cooperative_planning_before.png
   image_mouseover: cooperative_planning_after.mp4
   authors:
@@ -61,33 +81,3 @@
     - tpuphal
     - tweisswange
     - jeggert
-
-- id: biped
-  title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
-  venue: IEEE/RSJ IROS, 2025
-  description: "Adapting probabilistic risk models from autonomous driving to improve warning accuracy for assistive devices for the vision impaired."
-  #project_page: https://illuminerf.github.io
-  arxiv: 2406.06527
-  image: biped_before.png
-  image_mouseover: biped_after.mp4
-  authors:
-    - atourki
-    - pprevel
-    - neinecke
-    - tpuphal
-    - aalahi
-
-- id: humanfactors
-  title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
-  venue: IEEE ROMAN, 2023
-  description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems.d."
-  #project_page: https://reconfusion.github.io
-  arxiv: 2312.02981
-  image: biped_before.png
-  image_mouseover: biped_after.mp4
-  authors:
-    - tpuphal
-    - rhirano
-    - mprobst
-    - rwenzel
-    - akimata

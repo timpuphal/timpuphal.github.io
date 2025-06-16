@@ -15,7 +15,7 @@
   title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
   venue: IEEE ROMAN, 2023
   description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems."
-  arxiv: 2306.03849
+  project_page: https://arxiv.org/abs/2306.03849
   image: human_based_risk_model_before.png
   image_mouseover: human_based_risk_model_after.mp4
   authors:
