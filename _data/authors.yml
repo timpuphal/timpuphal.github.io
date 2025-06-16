@@ -1,56 +1,74 @@
 tpuphal:
   first_name: Tim
   last_name: Puphal
+  website: https://timpuphal.github.io/timpuphal/
   is_me: true
 mprobst:
   first_name: Malte
   last_name: Probst
+  website: https://scholar.google.com/citations?user=HHqmpAIAAAAJ&hl=en
 rwenzel:
   first_name: Raphael
   last_name: Wenzel 
+  website: https://www.linkedin.com/in/raphael-wenzel-96548a149/?originalSubdomain=de
 jeggert:
   first_name: Julian
   last_name: Eggert
+  website: https://scholar.google.com/citations?user=cP84NS8AAAAJ&hl=en
 bflade:
   first_name: Benedict
   last_name: Flade
+  website: https://scholar.google.de/citations?user=h4GwxN4AAAAJ&hl=en
 smatsuzaki:
   first_name: Sango
   last_name: Matsuzaki
+  website: https://patents.google.com/?inventor=sango+matsuzaki&oq=sango+matsuzaki
 mkumora:
   first_name: Misa
   last_name: Kumoro
+  website: https://patents.google.com/?inventor=misa+komuro&oq=misa+komuro
 mdasi:
   first_name: Monica
   last_name: Dasi 
+  website: https://www.linkedin.com/in/monica-dasi-md/
 nsteinhardt:
   first_name: Nico
   middle_name: A.
   last_name: Steinhardt 
+  website: https://patents.google.com/?inventor=nico+steinhardt&oq=nico+steinhardt
 tweisswange:
   first_name: Thomas
   last_name: Weisswange 
+  website: https://scholar.google.de/citations?user=izF_ECcAAAAJ&hl=en
 bbolder:
   first_name: Bram
   last_name: Bolder 
+  website: https://scholar.google.de/citations?user=AD1dA0cAAAAJ&hl=en
 mamann:
   first_name: Markus
   last_name: Amann
+  website: https://www.linkedin.com/in/markus-amann-b58471257/
 atourki:
   first_name: Amine
   last_name: Tourki
+  website: https://www.linkedin.com/in/amine-tourki-6b3b80273/?originalSubdomain=ch
 pprevel:
   first_name: Paul
   last_name: Prevel
+  website: https://www.linkedin.com/in/paul-prevel-060b3471/
 neinecke:
   first_name: Nils
   last_name: Einecke
+  website: https://scholar.google.de/citations?user=pCOM4TQAAAAJ&hl=de
 aalahi:
   first_name: Alexandre
   last_name: Alahi
+  website: https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en
 rhirano:
   first_name: Ryohei
   last_name: Hirano
+  website: https://patents.google.com/?inventor=ryohei+hirano&oq=ryohei+hirano
 akimata: 
   first_name: Akihito
   last_name: Kimata
+  website: https://patents.google.com/?inventor=akihito+kimata&oq=akihito+kimata

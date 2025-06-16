@@ -3,8 +3,6 @@
   venue: IEEE IV, 2025
   description: "Cooperative ordering resolved by switching-aware negotiation to handle dynamic intent in urban mobility scenarios"
   researchgate: 355837955_Asymmetry-based_Behavior_Planning_for_Cooperation_at_Shared_Traffic_Spaces/links/666a59e6b769e769192f673f/Asymmetry-based-Behavior-Planning-for-Cooperation-at-Shared-Traffic-Spaces.pdf
-  ieee: abstract/document/9575187
-  image: cooperative_planning_before.png
   image_mouseover: cooperative_planning_after.mp4
   authors:
     - rwenzel
@@ -17,6 +15,8 @@
   title: "Asymmetry-based Behavior Planning for Cooperation at Shared Traffic Spaces"
   venue: IEEE IV, 2021
   description: "Cooperative behavior planning using asymmetry-based outcome prediction to navigate narrow passages without communication."
+  ieee: abstract/document/9575187
+  image: cooperative_planning_before.png
   image: asymmetry_planning_before.png
   image_mouseover: asymmetry_planning_after.mp4
   authors:
