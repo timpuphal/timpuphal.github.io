@@ -1,11 +1,22 @@
-- name: University of Washington 
+- name: Technical University of Darmstadt
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    Ph. D in Electrical Engineering, advised by <a href="https://www.linkedin.com/in/julian-eggert-439bbb114/?originalSubdomain=de">Julian Eggert</a> and
+    <a href="https://www.etit.tu-darmstadt.de/fachbereich/professuren_etit/etit_prof_details_34880.de.jsp">Jürgen Adamy</a>.<br />
+    Supported by the European Unions Horizon 2020 programme.
+    dates: Fall 2016 - Spring 2021
 
-- name: University of Illinois at Urbana-Champaign
+- name: Technical University of Darmstadt
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    M.Sc. in Electrical Engineering, Major Robotics Control Theory.
+    Supported by a Continental AG scholarship.
+  dates: Fall 2013 - Spring 2016
+
+- name: Technical University of Darmstadt
+  description: >-
+    B.Sc. in Electrical Engineering with a Minor in Computer science and Mechanical Engineering.
+  dates: Fall 2010 - Spring 2013
+
+- name: CEGEP - John Abbott College
+  description: >-
+    Mathematics and Economics Major, Certificate of Academic Excellence
+  dates: Spring 2008
