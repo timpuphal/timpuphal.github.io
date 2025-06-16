@@ -146,19 +146,29 @@ layout: null
                   </a>
                   <a class="external-link button is-small is-ghost" href="https://arxiv.org/abs/{{ publication.arxiv }}">
                     <span class="icon"><i class="ai ai-arxiv"></i></span>
-                    <span>arXiv</span>
+                    <span>abstract</span>
                   </a>
                 {% endif %}
 
                 {% if publication.researchgate %}
                   <a class="external-link button is-small is-ghost"
-                    href="https://arxiv.org/pdf/{{ publication.researchgate }}.pdf">
+                    href="https://www.researchgate.net/profile/Tim-Puphal/publication/{{ publication.researchgate }}">
                     <span class="icon"><i class="fas fa-file-pdf"></i></span>
                     <span>PDF</span>
                   </a>
-                  <a class="external-link button is-small is-ghost" href="https://arxiv.org/abs/{{ researchgate.arxiv }}">
+                {% endif %}
+
+                {% if publication.hri %}
+                  <a class="external-link button is-small is-ghost" href="https://www.honda-ri.de/{{ publication.hri }}">
+                    <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                    <span>PDF</span>
+                  </a>
+                {% endif %}
+
+                {% if publication.ieee %}
+                  <a class="external-link button is-small is-ghost" href="https://ieeexplore.ieee.org/{{ publication.ieee }}">
                     <span class="icon"><i class="ai ai-arxiv"></i></span>
-                    <span>arXiv</span>
+                    <span>abstract</span>
                   </a>
                 {% endif %}
 
@@ -185,9 +195,11 @@ layout: null
         <a href="mailto:{{ site.email }}">
           <i class="fas fa-envelope"></i>
         </a>
+        <!--
         <a class="external-link" href="https://github.com/{{ site.github_username }}">
           <i class="fab fa-github"></i>
         </a>
+        -->
         <a class="external-link" href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
           <i class="ai ai-google-scholar"></i>
         </a>

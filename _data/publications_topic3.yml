@@ -2,8 +2,6 @@
   title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
   venue: IEEE/RSJ IROS, 2025
   description: "Adapting probabilistic risk models from autonomous driving to improve warning accuracy for assistive devices for the vision impaired."
-  #project_page: https://illuminerf.github.io
-  arxiv: 2406.06527
   image: biped_before.png
   image_mouseover: biped_after.mp4
   authors:
@@ -16,9 +14,8 @@
 - id: humanfactors
   title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
   venue: IEEE ROMAN, 2023
-  description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems.d."
-  #project_page: https://reconfusion.github.io
-  arxiv: 2312.02981
+  description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems."
+  arxiv: 2306.03849
   image: human_based_risk_model_before.png
   image_mouseover: human_based_risk_model_after.mp4
   authors:
