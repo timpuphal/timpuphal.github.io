@@ -107,13 +107,12 @@ layout: null
 
           <div class="column">
             <div class="content">
-              <!-- {% if publication.project_page %}
+              {% if publication.project_page %}
                 <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3>
               {% else %}
                 <h3 class="publication-title">{{ publication.title }}</h3>
               {% endif %}
-              -->
-              <h3 class="publication-title">{{ publication.title }}</h3>
+              
               <div class="publication-authors">
                 {% for author_id in publication.authors %}
                 {% assign author = site.data.authors[author_id] %}
@@ -140,14 +139,12 @@ layout: null
 
               <!-- Publication Links. -->
               <div class="publication-links buttons field has-addons">
-                <!--
                 {% if publication.project_page %}
                   <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
                     <span class="icon"><i class="fas fa-globe-asia"></i></span>
                     <span>Project Page</span>
                   </a>
                 {% endif %}
-                -->
                 
                 {% if publication.arxiv %}
                   <a class="external-link button is-small is-ghost"
