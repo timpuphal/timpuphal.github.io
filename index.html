@@ -107,7 +107,12 @@ layout: null
 
           <div class="column">
             <div class="content">
-              <!-- <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3> -->
+              {% if publication.project_page %}
+                <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3>
+              {% else %}
+                <h3 class="publication-title">{{ publication.title }}</h3>
+              {% endif %}
+              
               <div class="publication-authors">
                 {% for author_id in publication.authors %}
                 {% assign author = site.data.authors[author_id] %}
