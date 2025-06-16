@@ -1,15 +1,35 @@
 tpuphal:
   first_name: Tim
   last_name: Puphal
-  #website: https://timpuphal.github.io/timpuphal/
   is_me: true
 mprobst:
   first_name: Malte
   last_name: Probst
-  #website: https://scholar.google.com/citations?user=HHqmpAIAAAAJ&hl=en
-smseitz:
-  first_name: Steven 
-  middle_name: M.
-  last_name: Seitz
-  #website: https://smseitz.com
-
+rwenzel:
+  first_name: Raphael
+  last_name: Wenzel 
+jeggert:
+  first_name: Julian
+  last_name: Eggert
+bflade:
+  first_name: Benedict
+  last_name: Flade
+smatsuzaki:
+  first_name: Sango
+  last_name: Matsuzaki
+mkumora:
+  first_name: Misa
+  last_name: Kumoro
+mdasi:
+  first_name: Monica
+  last_name: Dasi 
+rwenzel:
+  first_name: Nico
+  middle_name: A.
+  last_name: Steinhardt 
+tweisswange:
+  first_name: Thomas
+  last_name: Weisswange 
+bbolder:
+  first_name: Bram
+  last_name: Bolder 
