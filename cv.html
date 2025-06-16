@@ -102,6 +102,7 @@ layout: null
               <a href="{{ publication.project_page }}"><b>{{ publication.title }}</b></a>
             {% else %}
               <b>{{ publication.title }}</b>
+            {% endif %}
             <div class="publication-authors">
               {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}
