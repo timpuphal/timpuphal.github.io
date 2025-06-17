@@ -22,16 +22,7 @@
     - smatsuzaki
     - mkomuro
   
-- id: filtering
-  title: "Risk-Based Filtering of Valuable Driving Situations in the Waymo Open Motion Dataset"
-  venue: IEEE IAVVC, 2025
-  description: "Filtering method identifies valuable complex interactions from large driving datasets to improve automated vehicle testing."
-  authors:
-    - tpuphal
-    - vramtekkar
-    - knishimiya
-
-- id: priorityplanning
+- id: cooperativeplanning
   title: "Negotiating Cooperative Ordering Problems with Bimodal Planning"
   venue: IEEE IV, 2025
   description: "Cooperative ordering resolved by switching-aware negotiation to handle dynamic intent in urban mobility scenarios"
@@ -43,6 +34,15 @@
     - tpuphal
     - mamann
     - jeggert
+
+- id: filtering
+  title: "Risk-Based Filtering of Valuable Driving Situations in the Waymo Open Motion Dataset"
+  venue: IEEE IAVVC, 2025
+  description: "Filtering method identifies valuable complex interactions from large driving datasets to improve automated vehicle testing."
+  authors:
+    - tpuphal
+    - vramtekkar
+    - knishimiya
 
 - id: personalization
   title: "Reducing Warning Errors in Driver Support with Personalized Risk Maps"
