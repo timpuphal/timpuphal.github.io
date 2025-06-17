@@ -19,6 +19,18 @@ bflade:
   first_name: Benedict
   last_name: Flade
   website: https://scholar.google.de/citations?user=h4GwxN4AAAAJ&hl=en
+yli:
+  first_name: Yiyang
+  last_name: Li
+  website: https://ieeexplore.ieee.org/author/37086487879
+vramtekkar:
+  first_name: Vipul
+  last_name: Ramtekkar
+  website: https://www.linkedin.com/in/vipulramtekkar/?originalSubdomain=jp
+knishimiya:
+  first_name: Kenji 
+  last_name: Nishimiya
+  website: https://www.linkedin.com/in/kenji-nishimiya/
 smatsuzaki:
   first_name: Sango
   last_name: Matsuzaki
@@ -68,6 +80,10 @@ rhirano:
   first_name: Ryohei
   last_name: Hirano
   website: https://patents.google.com/?inventor=ryohei+hirano&oq=ryohei+hirano
+tkawabuchi:
+  first_name: Takayuki
+  last_name: Kawabuchi
+  website: https://www.linkedin.com/in/takayuki-kawabuchi-54ba43169/
 akimata: 
   first_name: Akihito
   last_name: Kimata
