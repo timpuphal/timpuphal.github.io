@@ -14,7 +14,7 @@
     - mkomuro
 
 - id: robustplanning
-  title: "Comfortable Priority Handling with Predictive Velocity Optimization for Intersection Crossings"
+  title: "Automated Driving in Complex Real-World Scenarios using a Scalable Risk-Based Behavior Generation Framework"
   venue: IEEE ITSC, 2021
   description: "An analytic behavior planner enables autonomous vehicles to generate high-quality decisions without relying on predefined behavior primitives."
   hri: 4785
