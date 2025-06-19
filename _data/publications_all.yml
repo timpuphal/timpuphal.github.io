@@ -1,7 +1,7 @@
 - id: biped
   title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
   venue: IEEE/RSJ IROS, 2025
-  description: "Adapting probabilistic risk models from autonomous driving to improve warning accuracy for assistive devices for the vision impaired."
+  description: "Assistive device for the vision impaired through object detection and uncertainty-based motion prediction."
   authors:
     - atourki
     - pprevel
@@ -47,7 +47,7 @@
 - id: personalization
   title: "Reducing Warning Errors in Driver Support with Personalized Risk Maps"
   venue: IEEE ICVES, 2024
-  description: "Personalized assistance system adapts signals based on driver behavior to reduce false positives and negatives in driver support."
+  description: "Personalized assistance system adapts signals based on driver behavior style to reduce false positives and false negatives."
   award: "Best Paper Award"
   project_page: https://arxiv.org/abs/2410.02148
   authors:
@@ -60,7 +60,7 @@
 - id: humanfactors
   title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
   venue: IEEE ROMAN, 2023
-  description: "Human-aware risk maps use predicted driver errors to enable earlier and more robust warnings in support systems."
+  description: "Improved human-robot interaction by integrating human behavior models to anticipate errors and improve adaptive support."
   project_page: https://arxiv.org/abs/2306.03849
   authors:
     - tpuphal
