@@ -1,7 +1,7 @@
 - id: biped
   title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
   venue: IEEE/RSJ IROS, 2025
-  description: "Assistive device for the vision impaired using image recognition and uncertainty-aware motion prediction."
+  description: "Assistive device for the vision impaired using uncertainty-aware motion prediction to improve warning accuracy for surrounding objects."
   authors:
     - atourki
     - pprevel
@@ -60,7 +60,7 @@
 - id: humanfactors
   title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
   venue: IEEE ROMAN, 2023
-  description: "Improved human-robot interaction by integrating human behavior models to anticipate errors and improve adaptive support."
+  description: "Human-robot interaction using human state detection and behavior models to anticipate errors and provide adaptive support."
   project_page: https://arxiv.org/abs/2306.03849
   authors:
     - tpuphal
