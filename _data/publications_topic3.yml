@@ -1,7 +1,7 @@
 - id: biped
   title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
   venue: IEEE/RSJ IROS, 2025
-  description: "Assistive device for the vision impaired through object detection and uncertainty-based motion prediction."
+  description: "Assistive device for the vision impaired using image recognition and uncertainty-aware motion prediction."
   image: biped_before.png
   image_mouseover: biped_after.mp4
   authors:
