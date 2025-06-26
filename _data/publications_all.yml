@@ -2,6 +2,7 @@
   title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
   venue: IEEE/RSJ IROS, 2025
   description: "Assistive device for the vision impaired using uncertainty-aware motion prediction for surrounding objects."
+  project_page: https://hri-eu.github.io/PedestrianNavigation/
   authors:
     - atourki
     - pprevel
@@ -13,6 +14,7 @@
   title: "Finding the Easy Way Through – the Probabilistic Gap Planner for Social Robot Navigation"
   venue: IEEE ROMAN, 2025
   description: "Probabilistic gap planner which improves robot navigation by guiding short-term planners towards low-density crowd regions."
+  project_page: https://arxiv.org/abs/2506.20320
   authors:
     - mprobst
     - rwenzel

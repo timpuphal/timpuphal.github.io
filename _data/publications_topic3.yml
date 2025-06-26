@@ -2,6 +2,8 @@
   title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
   venue: IEEE/RSJ IROS, 2025
   description: "Assistive device for the vision impaired using uncertainty-aware motion prediction for surrounding objects."
+  project_page: https://hri-eu.github.io/PedestrianNavigation/
+  arxiv: 2506.16219
   image: biped_before.png
   image_mouseover: biped_after.mp4
   authors:
