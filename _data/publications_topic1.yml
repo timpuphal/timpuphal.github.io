@@ -2,7 +2,7 @@
   title: "Finding the Easy Way Through – the Probabilistic Gap Planner for Social Robot Navigation"
   venue: IEEE ROMAN, 2025
   description: "Probabilistic gap planner which improves robot navigation by guiding short-term planners towards low-density crowd regions."
-  arxiv: 2506.20320
+  arxiv: "2506.20320"
   image: wapochi_before.png
   image_mouseover: wapochi_after.mp4
   authors:
@@ -18,7 +18,7 @@
   title: "Automated Driving in Complex Real-World Scenarios using a Scalable Risk-Based Behavior Generation Framework"
   venue: IEEE ITSC, 2021
   description: "An analytic behavior planner enables autonomous vehicles to generate high-quality decisions without relying on predefined behavior primitives."
-  hri: 4785
+  hri: "4785"
   image: overtaking_before.png
   image_mouseover: overtaking_after.mp4
   authors:

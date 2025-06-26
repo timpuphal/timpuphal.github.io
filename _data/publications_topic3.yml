@@ -3,7 +3,7 @@
   venue: IEEE/RSJ IROS, 2025
   description: "Assistive device for the vision impaired using uncertainty-aware motion prediction for surrounding objects."
   project_page: https://hri-eu.github.io/PedestrianNavigation/
-  arxiv: 2506.16219
+  arxiv: "2506.16219"
   image: biped_before.png
   image_mouseover: biped_after.mp4
   authors:
@@ -17,7 +17,7 @@
   title: "Considering Human Factors in Risk Maps for Robust and Foresighted Driver Warning"
   venue: IEEE ROMAN, 2023
   description: "Human-robot interaction using human state detection and behavior models to anticipate errors and provide adaptive support."
-  arxiv: 2306.03849
+  arxiv: "2306.03849"
   image: human_based_risk_model_before.png
   image_mouseover: human_based_risk_model_after.mp4
   authors:
