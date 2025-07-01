@@ -41,6 +41,7 @@
   title: "Risk-Based Filtering of Valuable Driving Situations in the Waymo Open Motion Dataset"
   venue: IEEE IAVVC, 2025
   description: "Filtering method identifies valuable complex interactions from large driving datasets to improve automated vehicle testing."
+  project_page: https://hri-eu.github.io/RiskBasedFiltering/
   authors:
     - tpuphal
     - vramtekkar
