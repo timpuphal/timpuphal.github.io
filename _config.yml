@@ -30,7 +30,7 @@ description: |
   [Jürgen Adamy](https://scholar.google.com/citations?user=cP84NS8AAAAJ&hl=en).
 
   My current research interests are primarily in robust planning, cooperative planning and human-robot interaction.
-baseurl: "timpuphal" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://timpuphal.github.io/timpuphal/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: timpuphal
 github_username: timpuphal
