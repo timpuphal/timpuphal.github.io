@@ -1,3 +1,11 @@
+- id: surveyrobustness
+  title: "A Survey of Robust Autonomous Driving: Interaction Modeling, Uncertainty Handling and Learning"
+  venue: IEEE ITSC, 2026
+  description: "Toward robust autonomous driving via unified model-, uncertainty-, and learning-based motion planning."
+  project_page: https://www.techrxiv.org/doi/full/10.36227/techrxiv.177205001.16989017/v1
+  authors:
+    - tpuphal
+
 - id: biped
   title: "Probabilistic Collision Risk Estimation for Pedestrian Navigation"
   venue: IEEE/RSJ IROS, 2025
